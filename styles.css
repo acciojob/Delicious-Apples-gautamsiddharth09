@@ -1,1 +1,9 @@
 /* your code here */
+.btn{
+	text-decoration:none;
+	color:white;
+	background:red;
+	padding:5px;
+	border-radius:5px;
+	
+}
